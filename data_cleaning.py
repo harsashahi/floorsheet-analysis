@@ -12,9 +12,7 @@ print(df.dtypes)
 print("\nSample Data:")
 print(df.head(3))
 
-# ============================================================================
 # DATA CLEANING
-# ============================================================================
 
 # 1. Convert quantity to numeric (remove commas if any)
 df['quantity'] = pd.to_numeric(df['quantity'].astype(str).str.replace(',', ''), errors='coerce')
@@ -40,9 +38,9 @@ print(df.dtypes)
 print("\nSample Data:")
 print(df.head(3))
 
-# ============================================================================
+
 # DATA QUALITY CHECKS
-# ============================================================================
+
 
 print("\n" + "=" * 80)
 print("DATA QUALITY CHECKS")
@@ -61,9 +59,9 @@ print(f"From: {df['date'].min()}")
 print(f"To: {df['date'].max()}")
 print(f"Trading Days: {df['date'].nunique()}")
 
-# ============================================================================
+
 # SAVE CLEANED DATA
-# ============================================================================
+
 
 df.to_csv('floorsheet_floorsheetdata_cleaned.csv', index=False)
 print("\n✓ Cleaned data saved to: floorsheet_floorsheetdata_cleaned.csv")
