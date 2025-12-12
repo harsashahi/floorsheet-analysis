@@ -2,7 +2,7 @@ import pandas as pd
 import matplotlib.pyplot as plt
 
 # 1. Load CSV
-df = pd.read_csv("floorsheet_floorsheetdata.csv")
+df = pd.read_csv("floorsheet_floorsheetdata_cleaned.csv")
 
 # 2. Convert numeric columns (remove commas, convert to float)
 numeric_cols = ["quantity", "amount", "rate", "transaction_no", "id"]

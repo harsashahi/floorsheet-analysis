@@ -5,7 +5,7 @@ import os
 
 # 1. Load CSV
 
-df = pd.read_csv("floorsheet_floorsheetdata.csv")
+df = pd.read_csv("floorsheet_floorsheetdata_cleaned.csv")
 
 # 2. Clean numeric columns
 numeric_cols = ["quantity", "amount", "rate"]
