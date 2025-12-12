@@ -4,7 +4,6 @@ import numpy as np
 # Load the dataset
 df = pd.read_csv('floorsheet_floorsheetdata.csv')
 
-print("=" * 80)
 print("BEFORE CLEANING")
 print("=" * 80)
 print("\nData Types:")
@@ -30,7 +29,7 @@ df['date'] = pd.to_datetime(df['date'])
 df['buyer'] = pd.to_numeric(df['buyer'], errors='coerce').astype('Int64')
 df['seller'] = pd.to_numeric(df['seller'], errors='coerce').astype('Int64')
 
-print("\n" + "=" * 80)
+
 print("AFTER CLEANING")
 print("=" * 80)
 print("\nData Types:")
@@ -42,17 +41,16 @@ print(df.head(3))
 # DATA QUALITY CHECKS
 
 
-print("\n" + "=" * 80)
+
 print("DATA QUALITY CHECKS")
 print("=" * 80)
 print(f"\nMissing Values:\n{df.isnull().sum()}")
 
-print("\n" + "=" * 80)
 print("NUMERIC STATISTICS")
 print("=" * 80)
 print(df[['quantity', 'rate', 'amount']].describe())
 
-print("\n" + "=" * 80)
+
 print("DATE RANGE")
 print("=" * 80)
 print(f"From: {df['date'].min()}")
