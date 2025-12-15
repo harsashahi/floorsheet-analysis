@@ -5,17 +5,17 @@ Using Python, Pandas, NumPy, Matplotlib, and Scikit-learn, the project transform
 
 🎯 Objectives
 
-         -  Clean and preprocess large-scale floorsheet transaction data
+ -  Clean and preprocess large-scale floorsheet transaction data
 
-         -  Analyze broker dominance, accumulation/distribution phases, and trading concentration
+-  Analyze broker dominance, accumulation/distribution phases, and trading concentration
 
-         -  Detect abnormal and manipulative trading behaviors
+ -  Detect abnormal and manipulative trading behaviors
 
-         -  Generate rolling, weighted, and expanding window indicators
+-  Generate rolling, weighted, and expanding window indicators
 
-          - Create signal scoring and backtesting frameworks
+ - Create signal scoring and backtesting frameworks
 
-         -  Provide market surveillance-style insights similar to exchange-level analysis
+-  Provide market surveillance-style insights similar to exchange-level analysis
 
 🛠️ Tech Stack
 
@@ -134,6 +134,7 @@ Using Python, Pandas, NumPy, Matplotlib, and Scikit-learn, the project transform
 This project is for educational and analytical purposes only and does not constitute financial or investment advice.
 
 ⭐ If you find this project useful, feel free to star the repository!
+
 
 
 
