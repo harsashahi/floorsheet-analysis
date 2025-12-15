@@ -3,7 +3,7 @@
 This project performs comprehensive transaction-level analysis of stock market floorsheet data to uncover trading patterns, broker behavior, market manipulation signals, and data-driven trading insights.
 Using Python, Pandas, NumPy, Matplotlib, and Scikit-learn, the project transforms raw floorsheet CSV files into actionable analytical outputs and signals.
 
-🎯 Objectives
+🎯 Objectives :
 
  -  Clean and preprocess large-scale floorsheet transaction data
 
@@ -17,7 +17,7 @@ Using Python, Pandas, NumPy, Matplotlib, and Scikit-learn, the project transform
 
 -  Provide market surveillance-style insights similar to exchange-level analysis
 
-🛠️ Tech Stack
+🛠️ Tech Stack :
 
  -  Python
 
@@ -31,7 +31,7 @@ Using Python, Pandas, NumPy, Matplotlib, and Scikit-learn, the project transform
 
  - Jupyter / Python scripts
 
-📂 Key Analyses Implemented
+📂 Key Analyses Implemented :
 
 ✔ Data Preparation
 
@@ -97,7 +97,7 @@ Using Python, Pandas, NumPy, Matplotlib, and Scikit-learn, the project transform
 
  - Pattern-based dashboards
 
-📈 Use Cases
+📈 Use Cases :
 
   -  Market surveillance & compliance analysis
 
@@ -107,7 +107,7 @@ Using Python, Pandas, NumPy, Matplotlib, and Scikit-learn, the project transform
 
   - Academic and educational purposes
 
-🧠 Key Learning Outcomes
+🧠 Key Learning Outcomes :
 
    - Advanced Pandas operations and time-series handling
 
@@ -119,7 +119,7 @@ Using Python, Pandas, NumPy, Matplotlib, and Scikit-learn, the project transform
 
   - Practical signal generation and validation
 
-🚀 Future Enhancements
+🚀 Future Enhancements :
 
  -  Real-time data ingestion
 
@@ -134,6 +134,7 @@ Using Python, Pandas, NumPy, Matplotlib, and Scikit-learn, the project transform
 This project is for educational and analytical purposes only and does not constitute financial or investment advice.
 
 ⭐ If you find this project useful, feel free to star the repository!
+
 
 
 
