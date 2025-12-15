@@ -19,27 +19,27 @@ Provide market surveillance-style insights similar to exchange-level analysis
 
 🛠️ Tech Stack
 
-Python
+ -  Python
 
-Pandas & NumPy
+ -  Pandas & NumPy
 
-Matplotlib / Seaborn
+-   Matplotlib / Seaborn
 
-Scikit-learn
+ -  Scikit-learn
 
-Time-series analysis
+ -  Time-series analysis
 
-Jupyter / Python scripts
+ - Jupyter / Python scripts
 
 📂 Key Analyses Implemented
 
 ✔ Data Preparation
 
- -Data cleaning & normalization
+ - Data cleaning & normalization
 
- -Handling missing values and type conversions
+ - Handling missing values and type conversions
 
- -Creation of master floorsheet dataset
+ - Creation of master floorsheet dataset
 
 ✔ Descriptive & Statistical Analysis
 
@@ -55,7 +55,7 @@ Jupyter / Python scripts
 
    - Daily turnover computation
 
-    -Stock-wise average price & volume
+   - Stock-wise average price & volume
 
    - Rolling window indicators
 
@@ -109,7 +109,7 @@ Jupyter / Python scripts
 
 🧠 Key Learning Outcomes
 
-    - Advanced Pandas operations and time-series handling
+   - Advanced Pandas operations and time-series handling
 
    - Financial market microstructure analysis
 
@@ -117,15 +117,15 @@ Jupyter / Python scripts
 
   - Data-driven detection of abnormal market behavior
 
-   -Practical signal generation and validation
+  - Practical signal generation and validation
 
 🚀 Future Enhancements
 
  -  Real-time data ingestion
 
-  - Web-based dashboard (Django / Streamlit)
+ -  Web-based dashboard (Django / Streamlit)
 
-  - Automated alert system for suspicious trades
+ - Automated alert system for suspicious trades
 
  - ntegration with price OHLC data
 
@@ -134,6 +134,7 @@ Jupyter / Python scripts
 This project is for educational and analytical purposes only and does not constitute financial or investment advice.
 
 ⭐ If you find this project useful, feel free to star the repository!
+
 
 
 
