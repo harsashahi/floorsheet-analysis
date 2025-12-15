@@ -59,7 +59,7 @@ Provide market surveillance-style insights similar to exchange-level analysis
 
    - Rolling window indicators
 
-   -Weighted & expanding window calculations
+   - Weighted & expanding window calculations
 
 ✔ Broker & Trade Behavior Analysis
 
@@ -134,6 +134,7 @@ Provide market surveillance-style insights similar to exchange-level analysis
 This project is for educational and analytical purposes only and does not constitute financial or investment advice.
 
 ⭐ If you find this project useful, feel free to star the repository!
+
 
 
 
