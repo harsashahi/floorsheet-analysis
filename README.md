@@ -1,5 +1,4 @@
-# floorsheet-analysis
-📊 Floorsheet Data Analysis using Python & Pandas
+# #📊 Floorsheet Data Analysis using Python & Pandas
 🔍 Project Overview
 This project performs comprehensive transaction-level analysis of stock market floorsheet data to uncover trading patterns, broker behavior, market manipulation signals, and data-driven trading insights.
 Using Python, Pandas, NumPy, Matplotlib, and Scikit-learn, the project transforms raw floorsheet CSV files into actionable analytical outputs and signals.
@@ -134,3 +133,4 @@ Integration with price OHLC data
 This project is for educational and analytical purposes only and does not constitute financial or investment advice.
 
 ⭐ If you find this project useful, feel free to star the repository!
+
