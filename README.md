@@ -32,107 +32,109 @@ Time-series analysis
 Jupyter / Python scripts
 
 📂 Key Analyses Implemented
+
 ✔ Data Preparation
 
-Data cleaning & normalization
+ -Data cleaning & normalization
 
-Handling missing values and type conversions
+ -Handling missing values and type conversions
 
-Creation of master floorsheet dataset
+ -Creation of master floorsheet dataset
 
 ✔ Descriptive & Statistical Analysis
 
-Summary statistics
+  - Summary statistics
 
-Grouping & aggregation
+  - Grouping & aggregation
 
-Stock-wise and broker-wise activity analysis
+  - Stock-wise and broker-wise activity analysis
 
-Correlation analysis
+  - Correlation analysis
 
 ✔ Volume & Price Dynamics
 
-Daily turnover computation
+   - Daily turnover computation
 
-Stock-wise average price & volume
+    -Stock-wise average price & volume
 
-Rolling window indicators
+   - Rolling window indicators
 
-Weighted & expanding window calculations
+   -Weighted & expanding window calculations
 
 ✔ Broker & Trade Behavior Analysis
 
-Broker dominance detection
+ -  Broker dominance detection
 
-Top buyers & sellers by quantity and amount
+ -  Top buyers & sellers by quantity and amount
 
-Circular trading identification
+ -  Circular trading identification
 
-Trade clustering using machine learning
+ -  Trade clustering using machine learning
 
 ✔ Market Manipulation Detection
 
-Pump & dump pattern detection
+ -  Pump & dump pattern detection
 
-Unusual trade size identification
+ -  Unusual trade size identification
 
-Accumulation & distribution phase analysis
+ -  Accumulation & distribution phase analysis
 
 ✔ Signal Engineering & Backtesting
 
-Multi-factor signal scoring
+ -  Multi-factor signal scoring
 
-Strategy signal generation
+ -  Strategy signal generation
 
-Historical backtesting for validation
+ -  Historical backtesting for validation
 
 ✔ Visualization
 
-Time-series plots
+ -  Time-series plots
 
-Rolling metrics visualization
+  - Rolling metrics visualization
 
-Broker dominance charts
+ - Broker dominance charts
 
-Pattern-based dashboards
+ - Pattern-based dashboards
 
 📈 Use Cases
 
-Market surveillance & compliance analysis
+  -  Market surveillance & compliance analysis
 
-Retail & institutional investor research
+  -  Retail & institutional investor research
 
-Financial data science & quantitative analysis
+  - Financial data science & quantitative analysis
 
-Academic and educational purposes
+  - Academic and educational purposes
 
 🧠 Key Learning Outcomes
 
-Advanced Pandas operations and time-series handling
+    - Advanced Pandas operations and time-series handling
 
-Financial market microstructure analysis
+   - Financial market microstructure analysis
 
-Feature engineering from transaction-level data
+  - Feature engineering from transaction-level data
 
-Data-driven detection of abnormal market behavior
+  - Data-driven detection of abnormal market behavior
 
-Practical signal generation and validation
+   -Practical signal generation and validation
 
 🚀 Future Enhancements
 
-Real-time data ingestion
+ -  Real-time data ingestion
 
-Web-based dashboard (Django / Streamlit)
+  - Web-based dashboard (Django / Streamlit)
 
-Automated alert system for suspicious trades
+  - Automated alert system for suspicious trades
 
-Integration with price OHLC data
+ - ntegration with price OHLC data
 
 📌 Disclaimer
 
 This project is for educational and analytical purposes only and does not constitute financial or investment advice.
 
 ⭐ If you find this project useful, feel free to star the repository!
+
 
 
 
