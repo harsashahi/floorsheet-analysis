@@ -33,7 +33,7 @@ Using Python, Pandas, NumPy, Matplotlib, and Scikit-learn, the project transform
 
 📂 Key Analyses Implemented :
 
-✔ Data Preparation
+✔ Data Preparation :
 
  - Data cleaning & normalization
 
@@ -41,7 +41,7 @@ Using Python, Pandas, NumPy, Matplotlib, and Scikit-learn, the project transform
 
  - Creation of master floorsheet dataset
 
-✔ Descriptive & Statistical Analysis
+✔ Descriptive & Statistical Analysis :
 
   - Summary statistics
 
@@ -51,7 +51,7 @@ Using Python, Pandas, NumPy, Matplotlib, and Scikit-learn, the project transform
 
   - Correlation analysis
 
-✔ Volume & Price Dynamics
+✔ Volume & Price Dynamics :
 
    - Daily turnover computation
 
@@ -61,7 +61,7 @@ Using Python, Pandas, NumPy, Matplotlib, and Scikit-learn, the project transform
 
    - Weighted & expanding window calculations
 
-✔ Broker & Trade Behavior Analysis
+✔ Broker & Trade Behavior Analysis :
 
  -  Broker dominance detection
 
@@ -71,7 +71,7 @@ Using Python, Pandas, NumPy, Matplotlib, and Scikit-learn, the project transform
 
  -  Trade clustering using machine learning
 
-✔ Market Manipulation Detection
+✔ Market Manipulation Detection :
 
  -  Pump & dump pattern detection
 
@@ -79,7 +79,7 @@ Using Python, Pandas, NumPy, Matplotlib, and Scikit-learn, the project transform
 
  -  Accumulation & distribution phase analysis
 
-✔ Signal Engineering & Backtesting
+✔ Signal Engineering & Backtesting :
 
  -  Multi-factor signal scoring
 
@@ -87,7 +87,7 @@ Using Python, Pandas, NumPy, Matplotlib, and Scikit-learn, the project transform
 
  -  Historical backtesting for validation
 
-✔ Visualization
+✔ Visualization :
 
  -  Time-series plots
 
@@ -134,6 +134,7 @@ Using Python, Pandas, NumPy, Matplotlib, and Scikit-learn, the project transform
 This project is for educational and analytical purposes only and does not constitute financial or investment advice.
 
 ⭐ If you find this project useful, feel free to star the repository!
+
 
 
 
